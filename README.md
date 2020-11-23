@@ -25,7 +25,7 @@ Where json file consist of entries for post and its metadata.
 
 
 #### Deliverable
-Send the fallowing deliverables to HR@drivebuddyai.com:
+Send the fallowing deliverables to hr@drivebuddyai.com:
 - Source Code (.py or .ipynb)
 - Data analysis report.
 - What are the challenges you faced while working on the data?
