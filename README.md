@@ -1,8 +1,14 @@
 # Welcome to drivebuddyAI ML data pre-processing challenge
 The goal here is to train a model that can classify whether a given data i.e {image , json_meta} is an image of pavbhaji or not
 
-#####  Challenge task
+#####  Instagram post classification challenge
 The goal is to do data processing and data analysis.
+
+NOTE :
+This is a text based classification task (using json data) and not Image classification challenge
+
+- Json file contains metadata for instageram post is to be used for classification 
+- Images are provided for instagram post for your refernce.
 
 #### GIVEN :
 The <i><b>data</i></b> dir consists of data scraped from instagram for post that have <i><b>#pavbhaji</i></b> in their description or comment.
@@ -26,7 +32,7 @@ Where json file consist of entries for post and its metadata.
 
 #### Deliverable
 Send the fallowing deliverables to hr@drivebuddyai.com:
-- Source Code (.py or .ipynb)
+- Source Code (<your_name>.py or <your_name>.ipynb)
 - Data analysis report.
 - What are the challenges you faced while working on the data?
 - How did you overcome those and what approach you try to solve the problem?
