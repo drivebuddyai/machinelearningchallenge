@@ -1,7 +1,7 @@
 # Welcome to drivebuddyAI ML data pre-processing challenge
 The goal here is to train a model that can classify whether a given data i.e {image , json_meta} is an image of pavbhaji or not
 
-##  <b>Instagram post classification challenge</b>
+##  <u><b>Instagram post classification challenge</b></u>
 The goal is to do data processing and data analysis.
 
 NOTE :
