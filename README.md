@@ -2,13 +2,13 @@
 The goal here is to train a model that can classify whether a given data i.e {image , json_meta} is an image of pavbhaji or not
 
 ##  <u><b>Instagram post classification challenge</b></u>
-The goal is to do data processing and data analysis.
+The goal of this challenge is to do data processing and data analysis.
 
 NOTE :
 This is a text based classification task (using json data) and <i><b>not Image classification challenge</i></b>
 
 - Json file contains metadata for instageram post is to be used for classification 
-- Images are provided for instagram post for your refernce.
+- Images are provided for the instagram post in the json_meta.
 
 #### GIVEN :
 The <i><b>data</i></b> dir consists of data scraped from instagram for post that have <i><b>#pavbhaji</i></b> in their description or comment.
