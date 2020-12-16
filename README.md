@@ -17,8 +17,8 @@ The <i><b>data</i></b> dir consists of data scraped from instagram for post that
 >         |
 >      dataset
 >          |--- images
->                  |--- 0 (pavbhaji images)
->                  |--- 1 (non-pavbhaji images)
+>                  |--- 1 (pavbhaji images)
+>                  |--- 0 (non-pavbhaji images)
 >          |--- pavbhaji.json (post meta data)
 
 Where json file consist of entries for post and its metadata.
