@@ -1,5 +1,5 @@
 # Welcome to drivebuddyAI ML data pre-processing challenge
-The goal here is to train a model that can classify whether a given image is of pavbhaji or not
+The goal here is to train a model that can text classify whether a given image is of pavbhaji or not
 
 NOTE :
 - Json file contains metadata for instageram post is to be used for classification 
