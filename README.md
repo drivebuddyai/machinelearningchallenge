@@ -19,8 +19,6 @@ The <i><b>data</i></b> dir consists of data that have <i><b>#pavbhaji</i></b> in
 Where json file consist of entries for post and its metadata.
 
 #### TASK:
-
-- Analyse and generate a report for the given data and your insights for the same.
 - List down features and their relevance for training a classification model.
 - Train the model & predict whether the image contains the Pav-Bhaji or not.
 
@@ -28,16 +26,6 @@ Where json file consist of entries for post and its metadata.
 #### Deliverable
 Send the fallowing deliverables to hr@drivebuddyai.com:
 - Source Code (<your_name>.py or <your_name>.ipynb)
-- Data analysis report.
-- What are the challenges you faced while working on the data?
-- How did you overcome those and what approach you try to solve the problem?
-
-
-#### Evaluation
-We will evaluate you based on
-  - Your Coding skill as well as familiarity with ML libraries
-  - Your understanding of data and extracted features.
-  - Time Taken to Solve the Problem
-  
+- Data analysis report
+ 
 ###### Follow us on Twitter and Tag us @drivebuddyAI if you have completed the challenge and we'll call you for a coffee.
-
